@@ -1,7 +1,7 @@
 # Basketball Team Stats Manager
 
 ## Project Overview
-For the ITS 211 Introduction to Programming final project, this program manages and analyzes a basketball team's statistics using object-oriented programming (OOP). Users can build a 5-player roster, including each Player’s points, rebounds, steals, assists, and blocks. Users input information for each Player in a loop until the whole Team is complete. Once the Team is entered, the program allows searching for a player by name to retrieve their complete statistics and calculate the Team’s average statistics for each category.
+This program manages and analyzes a basketball team's statistics using object-oriented programming (OOP). Users can build a 5-player roster, including each Player’s points, rebounds, steals, assists, and blocks. Users input information for each Player in a loop until the whole Team is complete. Once the Team is entered, the program allows searching for a player by name to retrieve their complete statistics and calculate the Team’s average statistics for each category.
 
 ---
 
