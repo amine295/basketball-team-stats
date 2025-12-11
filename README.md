@@ -153,6 +153,3 @@ Blocks: 0.8
 
 Team data saved to team_data.csv.
 Exiting program...
-
-## Author
-Amine Hafid
